@@ -1,0 +1,1 @@
+Maps all servers in FI to excel
