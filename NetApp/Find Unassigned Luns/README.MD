@@ -1,0 +1,1 @@
+Connects to vcenter and netapp to find all the luns that are mapped to igroup and arent assigned to a vm

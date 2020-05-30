@@ -1,0 +1,2 @@
+This script automatically resizes all vols in wanted vservers (according to rules), deletes old snapshots and logs all actions.
+can be run using windows task schedueler (after editing the script to add relevant credentials)
