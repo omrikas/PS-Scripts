@@ -1,0 +1,1 @@
+This script maps all vms in vcenter to their matching vols

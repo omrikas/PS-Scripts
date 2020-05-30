@@ -1,0 +1,1 @@
+Maps all esxis in vcenter by their cpu count to excel

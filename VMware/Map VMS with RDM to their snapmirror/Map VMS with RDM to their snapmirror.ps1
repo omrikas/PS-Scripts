@@ -2,7 +2,7 @@
 
 #Inputs
 [string]$vcenter = read-host "Please enter vcenter name"
-[string]$folder = read-host "Please enter the folder name of the vms you want to map in"
+[string]$folder = read-host "Please enter the folder name of the vms you want to map"
 [string]$netapp = read-host "Please enter netapp name"
 
 <# If you wish to have a hard coded user to login, use this connection and fill the usr/pass
